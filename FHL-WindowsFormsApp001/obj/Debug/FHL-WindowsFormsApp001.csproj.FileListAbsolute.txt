@@ -1,0 +1,10 @@
+C:\Users\walte\source\repos\FHL-WindowsFormsApp001\FHL-WindowsFormsApp001\bin\Debug\FHL-WindowsFormsApp001.exe.config
+C:\Users\walte\source\repos\FHL-WindowsFormsApp001\FHL-WindowsFormsApp001\bin\Debug\FHL-WindowsFormsApp001.exe
+C:\Users\walte\source\repos\FHL-WindowsFormsApp001\FHL-WindowsFormsApp001\bin\Debug\FHL-WindowsFormsApp001.pdb
+C:\Users\walte\source\repos\FHL-WindowsFormsApp001\FHL-WindowsFormsApp001\obj\Debug\FHL-WindowsFormsApp001.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\FHL-WindowsFormsApp001\FHL-WindowsFormsApp001\obj\Debug\FHL_WindowsFormsApp001.Form1.resources
+C:\Users\walte\source\repos\FHL-WindowsFormsApp001\FHL-WindowsFormsApp001\obj\Debug\FHL_WindowsFormsApp001.Properties.Resources.resources
+C:\Users\walte\source\repos\FHL-WindowsFormsApp001\FHL-WindowsFormsApp001\obj\Debug\FHL-WindowsFormsApp001.csproj.GenerateResource.cache
+C:\Users\walte\source\repos\FHL-WindowsFormsApp001\FHL-WindowsFormsApp001\obj\Debug\FHL-WindowsFormsApp001.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\FHL-WindowsFormsApp001\FHL-WindowsFormsApp001\obj\Debug\FHL-WindowsFormsApp001.exe
+C:\Users\walte\source\repos\FHL-WindowsFormsApp001\FHL-WindowsFormsApp001\obj\Debug\FHL-WindowsFormsApp001.pdb
